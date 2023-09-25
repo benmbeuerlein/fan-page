@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+}
+
+header{
+    text-align: center;
+    font-size: 4rem;
+}
+
+img{
+    width: 400px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+blockquote{
+    font-style: italic;
+    font-size: large;
+}
